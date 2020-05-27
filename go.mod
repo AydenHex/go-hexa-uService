@@ -1,4 +1,4 @@
-module aydenhex/go-hexa-uservice
+module github.com/aydenhex/go-hexa-uservice
 
 go 1.14
 
